@@ -38,7 +38,8 @@
     "@types/node": "11.11.6",
     "create-hash": "^1.1.0",
     "pbkdf2": "^3.0.9",
-    "randombytes": "^2.0.1"
+    "randombytes": "^2.0.1",
+    "safe-buffer": "^5.2.1"
   },
   "devDependencies": {
     "@types/create-hash": "1.2.0",
